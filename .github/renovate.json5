@@ -1,7 +1,7 @@
 {
   extends: [
     "github>cbc02009/renovate-config",
-    "github>cbc02009/renovate-config:automerge-github-actions",
+    "github>cbc02009/renovate-config:automerge-github-actions.json5",
   ],
   platform: "github",
   "username": "mahoro-bot[bot]",
